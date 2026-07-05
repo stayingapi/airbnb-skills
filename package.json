@@ -1,0 +1,27 @@
+{
+  "name": "airbnb-skills",
+  "version": "1.0.0",
+  "description": "Agent skills for Airbnb data via ScoutingAPI.",
+  "homepage": "https://github.com/scoutingapi/airbnb-skills",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scoutingapi/airbnb-skills.git"
+  },
+  "bugs": {
+    "url": "https://github.com/scoutingapi/airbnb-skills/issues"
+  },
+  "author": "ScoutingAPI",
+  "license": "MIT-0",
+  "keywords": [
+    "airbnb",
+    "airbnb-api",
+    "airbnb-skills",
+    "agent-skills",
+    "skills",
+    "mcp",
+    "ai-agents",
+    "claude",
+    "travel",
+    "accommodation"
+  ]
+}
