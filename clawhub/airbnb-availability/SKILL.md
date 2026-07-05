@@ -1,6 +1,6 @@
 ---
 name: airbnb-availability
-description: "Check day-by-day Airbnb availability (the booking calendar) for a known listing over a date window. Use when a user asks whether a Airbnb place is open on specific dates. Powered by ScoutingAPI."
+description: "Check day-by-day Airbnb availability (the booking calendar) for a known listing over a date window. Use when a user asks whether a listing on Airbnb is open on specific dates. Powered by ScoutingAPI."
 version: "1.0.0"
 license: MIT-0
 author: ScoutingAPI

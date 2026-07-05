@@ -1,6 +1,6 @@
 ---
 name: airbnb-reviews
-description: "Read normalized Airbnb reviews for a listing, with native rating scales preserved. Use when a user wants ratings or guest feedback for a Airbnb place. Powered by ScoutingAPI."
+description: "Read normalized Airbnb reviews for a listing, with native rating scales preserved. Use when a user wants ratings or guest feedback for a listing on Airbnb. Powered by ScoutingAPI."
 version: "1.0.0"
 license: MIT-0
 author: ScoutingAPI
