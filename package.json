@@ -1,16 +1,16 @@
 {
   "name": "airbnb-skills",
   "version": "1.0.0",
-  "description": "Agent skills for Airbnb data via ScoutingAPI.",
-  "homepage": "https://github.com/scoutingapi/airbnb-skills",
+  "description": "Agent skills for Airbnb data via StayingAPI.",
+  "homepage": "https://github.com/stayingapi/airbnb-skills",
   "repository": {
     "type": "git",
-    "url": "https://github.com/scoutingapi/airbnb-skills.git"
+    "url": "https://github.com/stayingapi/airbnb-skills.git"
   },
   "bugs": {
-    "url": "https://github.com/scoutingapi/airbnb-skills/issues"
+    "url": "https://github.com/stayingapi/airbnb-skills/issues"
   },
-  "author": "ScoutingAPI",
+  "author": "StayingAPI",
   "license": "MIT-0",
   "keywords": [
     "airbnb",
