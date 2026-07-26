@@ -12,7 +12,7 @@ Most users want **airbnb-full** — it covers search, availability, listing, pri
 
 **OpenClaw (ClawdBot/Moltbot), via ClawHub:**
 ```bash
-npx clawhub@latest install airbnb-full
+npx clawhub@latest install @stayingapi/airbnb-full
 ```
 
 **Hermes Agent:**
@@ -36,7 +36,7 @@ git clone https://github.com/stayingapi/airbnb-skills.git
 cp -r airbnb-skills/skills/airbnb-full ~/.claude/skills/
 ```
 
-> The `npx skills add stayingapi/airbnb-skills` route reads this GitHub repo directly and works today. ClawHub / Hermes directory installs resolve once the skills are indexed in those directories.
+> The `npx skills add stayingapi/airbnb-skills` route reads this GitHub repo directly and works today. The ClawHub listings are published and pending directory review — that command works as soon as they are released. Hermes installs resolve once the skills are indexed there. ClawHub slugs are not globally unique, so always install ours owner-scoped (`@stayingapi/…`).
 
 ## Skills in this repo
 
