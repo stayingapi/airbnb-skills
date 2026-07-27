@@ -17,7 +17,7 @@ tags: ["airbnb", "airbnb-api", "availability", "calendar", "travel", "accommodat
 metadata: {"openclaw":{"emoji":"📅","requires":{"env":["STAYINGAPI_KEY"]},"primaryEnv":"STAYINGAPI_KEY","homepage":"https://stayingapi.com"},"hermes":{"tags":["airbnb","airbnb-api","availability","calendar","travel","accommodation"],"category":"integrations"}}
 ---
 
-# Airbnb availability
+# Airbnb Availability
 
 Check day-by-day availability for a known Airbnb listing — the booking calendar over any date window.
 

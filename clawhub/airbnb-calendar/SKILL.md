@@ -17,7 +17,7 @@ tags: ["airbnb", "airbnb-calendar", "availability", "calendar", "travel"]
 metadata: {"openclaw":{"emoji":"📆","requires":{"env":["STAYINGAPI_KEY"]},"primaryEnv":"STAYINGAPI_KEY","homepage":"https://stayingapi.com"},"hermes":{"tags":["airbnb","airbnb-calendar","availability","calendar","travel"],"category":"integrations"}}
 ---
 
-# Airbnb calendar
+# Airbnb Calendar
 
 The Airbnb calendar as data: day-by-day availability for a known listing over any window. (A keyword-friendly alias of the availability skill.)
 

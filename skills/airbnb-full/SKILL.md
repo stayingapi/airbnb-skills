@@ -17,7 +17,7 @@ tags: ["airbnb", "airbnb-api", "search", "availability", "reviews", "price-compa
 metadata: {"openclaw":{"emoji":"🧰","requires":{"env":["STAYINGAPI_KEY"]},"primaryEnv":"STAYINGAPI_KEY","homepage":"https://stayingapi.com"},"hermes":{"tags":["airbnb","airbnb-api","search","availability","reviews","price-comparison","travel","accommodation"],"category":"integrations"}}
 ---
 
-# Airbnb — complete toolkit
+# Airbnb — Complete Toolkit
 
 The everything skill for Airbnb: search, availability, listing detail, price, cross-OTA price comparison and reviews — one key, one schema. Install the focused skills instead when you want a minimal tool surface.
 

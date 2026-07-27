@@ -17,7 +17,7 @@ tags: ["airbnb", "airbnb-api", "reviews", "ratings", "travel", "accommodation"]
 metadata: {"openclaw":{"emoji":"⭐","requires":{"env":["STAYINGAPI_KEY"]},"primaryEnv":"STAYINGAPI_KEY","homepage":"https://stayingapi.com"},"hermes":{"tags":["airbnb","airbnb-api","reviews","ratings","travel","accommodation"],"category":"integrations"}}
 ---
 
-# Airbnb reviews
+# Airbnb Reviews
 
 Read normalized Airbnb reviews for a listing — the same review shape across every platform.
 

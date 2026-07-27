@@ -17,7 +17,7 @@ tags: ["airbnb", "airbnb-api", "price", "price-comparison", "cross-ota", "travel
 metadata: {"openclaw":{"emoji":"💲","requires":{"env":["STAYINGAPI_KEY"]},"primaryEnv":"STAYINGAPI_KEY","homepage":"https://stayingapi.com"},"hermes":{"tags":["airbnb","airbnb-api","price","price-comparison","cross-ota","travel","accommodation"],"category":"integrations"}}
 ---
 
-# Airbnb prices & cross-OTA comparison
+# Airbnb Prices & Cross-OTA Comparison
 
 Get a real Airbnb price quote — then compare the same property against the offers StayingAPI resolves for it, with a computed min and median over those offers. Coverage varies by property: sometimes several OTA rates, sometimes a single aggregated-lowest rate.
 
