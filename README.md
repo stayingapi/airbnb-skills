@@ -46,7 +46,7 @@ cp -r airbnb-skills/skills/airbnb-full ~/.claude/skills/
 | [`airbnb-availability`](skills/airbnb-availability) | Airbnb Availability |
 | [`airbnb-reviews`](skills/airbnb-reviews) | Airbnb Reviews |
 | [`airbnb-prices`](skills/airbnb-prices) | Airbnb Prices & Cross-OTA Comparison |
-| [`airbnb-full`](skills/airbnb-full) | Airbnb — Complete Toolkit |
+| [`airbnb-full`](skills/airbnb-full) | Airbnb, Complete Toolkit |
 | [`airbnb-calendar`](skills/airbnb-calendar) | Airbnb Calendar |
 
 Install `airbnb-full` for broad coverage; install a focused skill when you want a minimal tool surface.
